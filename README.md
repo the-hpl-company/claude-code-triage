@@ -79,4 +79,4 @@ src/
 └── digest.ts    # Entry point: past N days → weekly digest issue
 ```
 
-Inspired by [`duanyytop/agents-radar`](https://github.com/duanyytop/agents-radar), which independently triage'd claude-code issue #27790 as P1 — more precisely than the affected users themselves.
+Inspired by [`duanyytop/agents-radar`](https://github.com/duanyytop/agents-radar), which independently triage'd our own claude-code issue (reported with #27790) as P1 — more precisely than the affected users--ourselves included! we are grateful for the elegance of their simple solution, and honored to gift it to the broader Anthropic community. 
